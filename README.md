@@ -46,11 +46,11 @@ This project demonstrates the importance of explainable machine learning in envi
 ## Project Outputs
 
 ### Correlation Heatmap
-![Correlation](results/correlation_heatmap.png)
+![Correlation](correlation_heatmap.png)
 
 ### Feature Importance
-![Feature Importance](results/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### SHAP Summary Plot
-![SHAP](results/shap_summary.png)
+![SHAP](shap_summary.png)
 
